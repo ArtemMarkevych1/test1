@@ -29,17 +29,17 @@ body {
   border-radius: 12px;
   z-index: 1;
   transform: scale(1.2) translateY(10px);
-  /* transition: all 1s; */
+  transition: all 1s;
   z-index: 1;
 }
 .person:hover img {
   border-radius: 60px;
   transform: scale(0.9);
-  /* transition: all 1s; */
+  transition: all 1s;
 }
 .person:hover .rank {
   right: 20px;
-  /* transition: right 1s; */
+  transition: right 1s;
 }
 .person:hover .extra {
   display: block;

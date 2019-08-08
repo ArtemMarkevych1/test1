@@ -39,7 +39,7 @@ body {
 }
 .person:hover .rank {
   right: 20px;
-  transition: right 1s;
+  /* transition: right 1s; */
 }
 .person:hover .extra {
   display: block;
